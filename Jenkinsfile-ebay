@@ -7,6 +7,7 @@ node {
     stage('2mavenBuild') {
         sh "${mavenHome}/bin/mvn clean package"
          }
+         */
     stage('3codeQuality') {
         sh "${mavenHome}/bin/mvn sonar:sonar"
         
@@ -36,4 +37,5 @@ landmark Technologies''', subject: 'Build status', to: 'developers'
     stage('prod-Deploy'){
          deploy adapters: [tomcat9(credentialsId: 'TomcatCredentials', path: '', url: 'http://54.196.135.105:8080')], contextPath: null, war: 'target/*war'
     }
+    /*
     }
