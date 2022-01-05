@@ -10,7 +10,8 @@
 </head>
 <body>
 <h1 align="center">Welcome to LandmarK Technologies.</h1>
-<h2 align="center">An ideal online training platform for DevOPs and Cloud Engineers. 
+<h2 align="center">Supporting Ebay black friday project
+	An ideal online training platform for DevOPs and Cloud Engineers. 
 	Class26 will run from October 2, 2021.
 	The Shout of the king Jesus is in Our midst. HE IS OUR SUCCESS KEY</h2>
 <hr>
