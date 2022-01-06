@@ -10,10 +10,10 @@
 </head>
 <body>
 <h1 align="center">Welcome to LandmarK Technologies.</h1>
-<h2 align="center">We are Supporting the Ebay black friday project
-	Landdmark Technologies is a software development company. 
+<h2 align="center">We are Supporting the Ebay black friday project.
+	Landmark Technologies is a software development company. 
 	Class26 will run from October 2, 2021.
-	The Shout of the king Jesus is in Our midst. HE IS OUR SUCCESS KEY</h2>
+	The Shout of the king Jesus Christ is in Our midst. HE IS OUR SUCCESS KEY</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
